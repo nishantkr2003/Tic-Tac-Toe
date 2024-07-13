@@ -112,7 +112,7 @@ const showAlert = (msg) => {
     alertBox.textContent = msg;
     setTimeout(()=> {
         alertBox.style.display = "none";
-    },3000);
+    },10000);
 }
 restartBtn.addEventListener('click',restartGame);
 startGame();
