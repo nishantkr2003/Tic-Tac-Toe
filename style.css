@@ -110,3 +110,10 @@ body{
         font-size: 50px;
     }
 }
+
+.heart{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 5px;
+
+}
